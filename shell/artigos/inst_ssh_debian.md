@@ -1,5 +1,5 @@
 # Instalaçao e configuração SSH - Debian e derivados
-SSH (Secure Shell) protocolo, é usado para administração de sistemas Linux. SSH usa encriptação para tornar segura a conecção entre um client e um servidor. Para entender melhor pode consultar (https://www.ssh.com/ssh/protocol/). SSH é usado por maior parte de datacenters e grandes empresas.
+O protocolo SSH (Secure SHell), é usado para administração de sistemas Linux. SSH usa encriptação para tornar segura a conecção entre um client e um servidor. Para entender melhor pode consultar (https://www.ssh.com/ssh/protocol/). SSH é usado por maior parte de datacenters e grandes empresas.
 # Instalação
 #### sudo apt install openssh-server
 # Ativação do serviço
